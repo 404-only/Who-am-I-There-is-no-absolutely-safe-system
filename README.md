@@ -10,7 +10,6 @@ hacker_script.py: program main function: get ip and take photos of victims
 
 email_send.py: send the photos taken to the attacker's mailbox by sending emails
 
-Note: no additional program conditions are considered, just implement the function!
 
 email_send.py file configures your own mailbox and authorization code
 
